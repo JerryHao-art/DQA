@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+runs/
+smoke/
+summaries/
+*.pt
+*.pth
+*.ckpt
+*.log
+*.pid
+.DS_Store

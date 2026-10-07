@@ -1,0 +1,164 @@
+{
+  "python": "3.10.19",
+  "versions": {
+    "numpy": "2.2.6",
+    "torch": "2.4.1",
+    "gymnasium": "0.29.1",
+    "mujoco": "2.3.3",
+    "gymnasium-robotics": "1.2.4",
+    "mujoco-py": "2.1.2.14",
+    "tensorboard": "2.11.2"
+  },
+  "runs": [
+    {
+      "environment": "Hopper-v3",
+      "seed": 12345,
+      "original_evaluations_sha256": "1c097c2ec531cf853a375e59863257ed6a5109d6f69933ee140faca21a5ca2ac",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Hopper-v3",
+      "seed": 22345,
+      "original_evaluations_sha256": "4f72ca1f7154edaee8a1bd20eac4c0bccbbaa8cbd0b5fe4cf0a40ce92d9db27b",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Hopper-v3",
+      "seed": 32345,
+      "original_evaluations_sha256": "1a4d39446a4aab828f109d8ae8edb05f4c59a3b7b1561efcbed7046fdfc2d7db",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Hopper-v3",
+      "seed": 42345,
+      "original_evaluations_sha256": "20975518bf6d52924dcb148b6911d296686737a05cdc4abb596b87ec44d367d4",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Hopper-v3",
+      "seed": 52345,
+      "original_evaluations_sha256": "e334f8386d0142cea27d7c0694b91d999f74ec50f158dfd834e4245e7e9d4525",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Walker2d-v3",
+      "seed": 12345,
+      "original_evaluations_sha256": "b09a4ab0aae8058cd2c55fd7f1de6de3c836ffb4bfb91d13d5f2e3bc9713b3bb",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Walker2d-v3",
+      "seed": 22345,
+      "original_evaluations_sha256": "8910a603ed1791d3dada6f77b003772bb7c240e972e34a1f9b6dbd047ce7db5c",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Walker2d-v3",
+      "seed": 32345,
+      "original_evaluations_sha256": "2de195212deb2b8cf64370244b87f0ac46ada806b5318e57ffaecfa673498cf9",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Walker2d-v3",
+      "seed": 42345,
+      "original_evaluations_sha256": "8012b073e943f9f1de3db39ffe0b61912ba829e6db1e9fa579542c936b5cec31",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Walker2d-v3",
+      "seed": 52345,
+      "original_evaluations_sha256": "8ca2d954d29cd1225d1b8c9b11d4615f5bac4489bf1fe8d2fa31d13fdfbcb882",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "HalfCheetah-v3",
+      "seed": 12345,
+      "original_evaluations_sha256": "5c0a65c8d8b962926990b1a275d4b1d0874c33d2f0e0dcf25d854fd61d87dfa6",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "HalfCheetah-v3",
+      "seed": 22345,
+      "original_evaluations_sha256": "be15b17abd9758f0c2e3d3066e2ab69b46ad02cf3464272b8e0ec85d226a05e1",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "HalfCheetah-v3",
+      "seed": 32345,
+      "original_evaluations_sha256": "55ed8b5e0a38e88710e0af8a7ea049fc6bd618000f38464cd83b548280aa8a73",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "HalfCheetah-v3",
+      "seed": 42345,
+      "original_evaluations_sha256": "7538ed4e98f861dee742a0cef4c31c7576c65041022e833b8fdd5eb2740f795e",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "HalfCheetah-v3",
+      "seed": 52345,
+      "original_evaluations_sha256": "6fccbd8346b7960d4e22cabeba123a6c24754b34b3c7e583407de5ccf9ee0011",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Ant-v3",
+      "seed": 12345,
+      "original_evaluations_sha256": "c02706c8315fa6531c030fa5a67b4e07b79b36adb67e7ac63f63c9fb05f589e8",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Ant-v3",
+      "seed": 22345,
+      "original_evaluations_sha256": "50d846c7ea62ef9b510f9549cf156ecc7e0019ac29ad48f289e3688bc9bd1645",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Ant-v3",
+      "seed": 32345,
+      "original_evaluations_sha256": "7de4ee713d7e03b7f43c525c197e308e23f97f972b37a062fcc93540b7896c9f",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Ant-v3",
+      "seed": 42345,
+      "original_evaluations_sha256": "c8970bbed2263f211e8df7ad2bb222ee2ff4a59a462486693657ac46c796a38e",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Ant-v3",
+      "seed": 52345,
+      "original_evaluations_sha256": "a69e243854e03c735efa096d753b0201c1ee1db8aab656068a2038fdcf1f6c54",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Humanoid-v3",
+      "seed": 12345,
+      "original_evaluations_sha256": "317952f0f060f43ab4e62d0745d3362a67ef628114b5ff7c3712605a5b98a84e",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Humanoid-v3",
+      "seed": 22345,
+      "original_evaluations_sha256": "789fd6b3f5bc6651c9e5aacfc94903e9610f2e824831680e480da08af29680b4",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Humanoid-v3",
+      "seed": 32345,
+      "original_evaluations_sha256": "6cc124252a9ceb45651f875aac1fc1fee3ded199b1520dae45a9c1b2d0ff968e",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Humanoid-v3",
+      "seed": 42345,
+      "original_evaluations_sha256": "d38385f54a1254c64c63d9271e0cc29ec788c6add6fa67909f98780435c88cf1",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    },
+    {
+      "environment": "Humanoid-v3",
+      "seed": 52345,
+      "original_evaluations_sha256": "b48b35ec38b7602bac8723010699c7d579960b1a5d730485dc5c5dcc542974fa",
+      "original_trainer_sha256": "129954b854f635142e794050e2a42c1bb765e6ae2487b76dc11eea295c0f7c5c"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Additional dependencies for the MuJoCo v3 results.
+# Requires the MuJoCo 2.1 engine and system build dependencies.
+-r requirements.txt
+gymnasium-robotics==1.2.4
+mujoco-py==2.1.2.14
+Cython==0.29.37
+setuptools<81
